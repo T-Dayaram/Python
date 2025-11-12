@@ -1,0 +1,6 @@
+employee_id,dept,job_title,hire_date,manager_id
+E001, sales ,sales executive,2018-06-01,E010
+E002,Sales,Senior Sales Executive,2016-03-15,E010
+E003,FINANCE,analyst,2020-09-10,
+E004,Finance,Senior Analyst,2017-01-05,E011
+E005,Operations, ops manager ,2019-11-30,E012

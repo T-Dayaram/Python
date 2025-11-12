@@ -1,0 +1,6 @@
+order_id,customer_id,product,unit_price,quantity,order_date
+1001,C001,Widget A,25.0,4,2024-01-05
+1002,C002,Widget B,60.0,2,2024-01-15
+1003,C003,Widget C,15.0,10,2024-02-01
+1004,C001,Widget A,25.0,1,2024-03-03
+1005,C004,Widget B,60.0,8,2024-03-21

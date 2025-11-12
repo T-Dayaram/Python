@@ -1,0 +1,7 @@
+employee_id,dept,satisfaction,response_date
+E001, sales ,4.5,2024/01/03
+E002,Sales,4.2,2024-01-05
+E003,FINANCE,not sure,2024-01-07
+E003,FINANCE,4.8,2024-01-07
+E004,finance,3.9,2024-02-01
+E005,Operations,5,2024-02-18
